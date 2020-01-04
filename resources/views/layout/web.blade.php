@@ -1,6 +1,6 @@
 <html lang="ru">
     <head>
-        <title>Friends - @yield('title')</title>
+        <title>Friends - @yield('title', 'Первая социальная сеть без мемов и информационного шума')</title>
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     </head>
     <body>
