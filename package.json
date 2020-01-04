@@ -1,7 +1,8 @@
 {
     "private": true,
     "engines": {
-        "yarn": "1.19.1"
+        "yarn": "1.19.1",
+        "node": "8.10.0"
     },
     "scripts": {
         "dev": "yarn run development",
